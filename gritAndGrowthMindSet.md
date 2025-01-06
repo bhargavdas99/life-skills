@@ -25,12 +25,19 @@ The most important point is:
 
 ## 4. What are the key points mentioned by speaker to build growth mindset (explanation not needed).
 
-- Embrace Challenges: View challenges as opportunities to learn and grow.
-- Learn from Criticism: Use constructive feedback to improve and develop.
-- Persist in the Face of Setbacks: Maintain effort and resilience when encountering obstacles.
-- Value Effort Over Talent: Recognize that effort leads to mastery, rather than relying solely on innate ability.
-- Celebrate Others' Successes: Find inspiration in the achievements of others instead of feeling threatened. 
+- **Embrace Challenges**: View challenges as opportunities to learn and grow.
+- **Learn from Criticism**: Use constructive feedback to improve and develop.
+- **Persist in the Face of Setbacks**: Maintain effort and resilience when encountering obstacles.
+- **Value Effort Over Talent**: Recognize that effort leads to mastery, rather than relying solely on innate ability.
+- **Celebrate Others' Successes**: Find inspiration in the achievements of others instead of feeling threatened. 
 
+## 5 Actionable Points to Build a Growth Mindset (One per Principle):
+
+- **Embrace Challenges**: Take on a project involving a technology or concept you are unfamiliar with.
+- **Learn from Feedback**: Actively seek constructive criticism during code reviews and apply it to improve.
+- **Persist Through Setbacks**: Analyze bugs or errors as opportunities to refine your understanding and skills.
+- **Value Effort Over Talent**: Dedicate daily time to deliberate practice, such as solving coding challenges.
+- **Celebrate Others' Successes**: Collaborate with peers to learn from their approaches and achievements.
 
 # References:
 - [Grit: The Power of Passion and Perseverance | Angela Lee Duckworth | TED](https://www.youtube.com/watch?v=H14bBuluwB8)
