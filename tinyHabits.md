@@ -24,29 +24,29 @@
 - As we celebrate consistently, we build positive reinforcement, making the habit feel rewarding and enjoyable.  
 - Over time, this practice strengthens the habit, helping us perform the task more effectively and with greater confidence.  
 
-### 4: In this video, what was the most interesting story or idea for us?  
+### 4. In this video, what was the most interesting story or idea for us?  
 - The idea of "habit stacking" stood out as an effective way to build habits by anchoring them to existing ones.  
 - The concept that tiny 1% improvements compound over time was inspiring for long-term growth.  
 
-### 5: What is the book's perspective about Identity?  
+### 5. What is the book's perspective about Identity?  
 - We should focus on becoming the type of person who performs the habit rather than the habit itself (e.g., “We are runners” vs. “We want to run”).  
 - Aligning habits with our identity fosters intrinsic motivation and makes habits sustainable.  
 
-### 6: Write about the book's perspective on how to make a habit easier to do.  
+### 6. Write about the book's perspective on how to make a habit easier to do.  
 - We can reduce friction by simplifying the environment (e.g., keeping workout clothes ready).  
 - Breaking the habit into smaller, manageable steps helps lower the effort required.  
 
-### 7: Write about the book's perspective on how to make a habit harder to do.  
+### 7. Write about the book's perspective on how to make a habit harder to do.  
 - We can increase friction by adding obstacles to the habit (e.g., unplugging the TV to reduce binge-watching).  
 - Removing triggers or cues that prompt the habit makes it less likely to occur.  
 
-### 8: Pick one habit that we would like to do more of. What steps can we take to make the cue obvious or the habit more attractive or easy, and the response satisfying?  
+### 8. Pick one habit that we would like to do more of. What steps can we take to make the cue obvious or the habit more attractive or easy, and the response satisfying?  
 - **Habit**: Reading daily.  
 - **Steps**: 
     - Whenever I feel like I am free, I will remind myself to read a book.
     - Whenever I am going to bed, I will set an alarm to read few pages of any book.
 
-### 9: Pick one habit that we would like to eliminate or do less of. What steps can we take to make the cue invisible, the process unattractive or hard, and the response unsatisfying?  
+### 9. Pick one habit that we would like to eliminate or do less of. What steps can we take to make the cue invisible, the process unattractive or hard, and the response unsatisfying?  
 - **Habit**: Scrolling on social media.  
 - **Steps**: 
     - Turn off notifications.
