@@ -1,4 +1,4 @@
-### REST Architecture (Representational State Transfer)
+## REST Architecture (Representational State Transfer)
 
 **REST** is an architectural style for designing distributed systems, particularly web services. It was introduced by Roy Fielding in his 2000 doctoral dissertation. REST emphasizes scalability, simplicity, and performance by leveraging the stateless nature of HTTP.
 
@@ -113,3 +113,11 @@
    - The "uniform interface" is interpreted differently by different developers, leading to inconsistent implementations.
 
 ---
+
+## References
+
+- **Fielding, Roy T.**: *Architectural Styles and the Design of Network-based Software Architectures*. Doctoral dissertation, University of California, Irvine, 2000. [https://www.ics.uci.edu/~fielding/pubs/dissertation/top.htm](https://www.ics.uci.edu/~fielding/pubs/dissertation/top.htm)
+  
+- **Tilkov, Stefan**, and **Vinoski, Steve**: "Node.js REST APIs," *Communications of the ACM*, vol. 59, no. 9, pp. 22-24, Sept. 2016. [https://cacm.acm.org/](https://cacm.acm.org/)
+
+- **HTTP/1.1 Documentation**: *RFC 7231: Hypertext Transfer Protocol (HTTP/1.1) Semantics and Content*. IETF, 2014. [https://tools.ietf.org/html/rfc7231](https://tools.ietf.org/html/rfc7231)
