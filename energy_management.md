@@ -7,17 +7,23 @@
 - Reading few pages of a book.
 - Ocassionally playing an open-world video game.
 
+---
+
 ### 2. When do you find getting into the Stress quadrant?
 
 - **Tension:** When things don't happen as I expect them to happen.
 - **Disgust:** When the food worse than my expectation.
 - **Anger:** When someone whom I trusted in, betrays me.
 
+---
+
 ### 3. How do you understand if you are in the Excitement quadrant?
 
 - **Surprise:** If I get an unexpected but good gift from someone.
 - **Excitement:** If I win a match in any sport or get good results in a test.
 - **Happiness:** If I am healthy, thats when I am the happiest.
+
+---
 
 ### 4. Paraphrase "Sleep is Your Superpower" video 
 - Sleep improves brain function, memory, and learning.  
