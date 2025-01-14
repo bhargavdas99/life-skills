@@ -11,13 +11,13 @@ Deep Work, according to Cal Newport, is the ability to focus intensely on cognit
 
 ---
 
-### Question 3: How can you implement the principles in your day-to-day life?  
+### 3. How can you implement the principles in your day-to-day life?  
 - Create a clear work schedule with breaks for rest.  
 - Limit distractions by turning off notifications and setting boundaries.  
 
 ---
 
-### Question 4: What are the dangers of social media, in brief?  
+### 4. What are the dangers of social media, in brief?  
 - Time wastage and diminished ability to focus.  
 - Negative impacts on mental health, such as increased anxiety or feelings of inadequacy.  
 
